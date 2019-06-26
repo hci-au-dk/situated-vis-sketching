@@ -6,11 +6,11 @@ We report on findings from seven design workshops that used ideation and sketchi
 
 ## This Repository
 
-![Workshop descriptions](/images/workshops.jpg)
-
 In this repository you will find:
 * [A copy of the paper](DIS_2019_Situated-Vis-Sketching.pdf)
 * [Supplemental materials](DIS_2019_Supplemental_materials.pdf) with assembly instructions for workshop materials and descriptions of workshop procedures.
+
+![Workshop descriptions](/images/workshops.jpg)
 
 ## Original Publication
 * [ACM Digital Library](https://doi.org/10.1145/3322276.3322326)
